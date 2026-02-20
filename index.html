@@ -27,6 +27,7 @@
             <option value="1800">0.5 hour</option>
             <option value="3600" selected>1 hour</option>
             <option value="7200">2 hours</option>
+            <option value="10">10 seconds</option>
         </select>
         <button class="btn-start" py-click="start_activity">Start Activity</button>
     </div>
@@ -38,8 +39,10 @@
         <div style="margin-top: 20px;">
             <button py-click="delay_relax" style="background: #334155; color: white; border: none; padding: 5px 10px;">DelayRelax</button>
             <select id="delay-select">
-                <option value="300">5 minutes</option>
+                <option value="300" selected>5 minutes</option>
                 <option value="600">10 minutes</option>
+                <option value="900">15 minutes</option>
+                <option value="10">10 seconds</option>
             </select>
         </div>
     </div>
@@ -55,4 +58,5 @@
 </body>
 
 </html>
+
 
