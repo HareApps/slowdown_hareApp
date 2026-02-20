@@ -5,7 +5,7 @@ const ASSETS_TO_CACHE = [
   './main.py',
   './pyscript.json',
   './manifest.json',
-  './hare_relax.jpg',
+  './hare_relax.JPG',
   './zorza.jpg',
   './ncprime-mid-nights-sound-291477.mp3 
 ];
@@ -38,4 +38,5 @@ self.addEventListener('fetch', (event) => {
       return response || fetch(event.request);
     })
   );
+
 });
