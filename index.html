@@ -10,7 +10,7 @@
     <style>
         body { background-color: #0f172a; color: white; font-family: 'Segoe UI', sans-serif; text-align: center; margin: 0; display: flex; align-items: center; justify-content: center; height: 100vh; }
         .window { width: 450px; padding: 20px; }
-        .hidden { display: none; }
+        .hidden { display: none !important; }
         .btn-start { background: #10b981; color: #0f172a; border: none; padding: 15px 40px; font-weight: bold; border-radius: 5px; cursor: pointer; }
         .btn-relax { background: #10b981; color: white; border: none; padding: 12px 25px; width: 100%; border-radius: 5px; }
         .fullscreen { position: fixed; top:0; left:0; width:100%; height:100%; background: black; z-index: 100; display: flex; flex-direction: column; align-items: center; justify-content: center; }
@@ -49,9 +49,10 @@
         <h2 style="color: #10b981; margin-top: 30px;">CLICK ANYWHERE TO RETURN</h2>
     </div>
 
-    <audio id="alarm-sound" src="Alarm03.wav"></audio>
+    <audio id="alarm-sound" src="ncprime-mid-nights-sound-291477.mp3"></audio>
 
     <script type="py" src="./main.py" config="./pyscript.json"></script>
 </body>
 
 </html>
+
