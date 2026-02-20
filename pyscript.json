@@ -1,0 +1,4 @@
+{
+    "interpreter": "https://cdn.jsdelivr.net/pyodide/v0.25.0/full/pyodide.js",
+    "files": ["main.py", "hare_relax.jpg", "zorza.jpg", "ncprime-mid-nights-sound-291477.mp3"]
+}
