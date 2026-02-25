@@ -45,7 +45,8 @@ Set the Timer: Select your desired work interval from the dropdown.
 Work: Click Start Activity. The app will run in the background.
 Relax: When the "Hare" alerts you, click RelaxNow to enter full-screen mode, or DelayRelax if you need a few more minutes.
 Return: Click anywhere or press a key in the full-screen view to return to the main menu.
-Credentials to
+Acknowledgements to
+Amarga for hare_relax picture
 KevinSchmid for his kevinschmid-aurora-borealis-4965488_1920.jpg picture made available in Pixabay.com. For the purpose of the App it was renamed to zorza.jpg
 SoundReality - Pixabay, for the piano sound soundreality-notification-piano-443094.mp3
 AI Studio and Gemini AI who helped a non-technical person as I am to vibe code the App.
