@@ -21,19 +21,19 @@ It was entirely vibe coded in AI Studio and with a help of Gemini AI by a non-te
 *    **sw.js**: Service Worker for caching assets and offline functionality.
 *    **pyscrip.json**: Configuration file defining required assets for the PyScript runtime.
 ## How to Run Locally
-Since this app uses PyScript and Service Workers, it is best served via a local web server to avoid CORS issues.
-**Clone the repository**:
-Bash
-git clone https://github.com/HareApps/SlowDown_HareApp.git
-cd SlowDown_HareApp
-**Start a local server**:
-If you have Python installed, run:
-Bash
-python -m http.server 8000
-Open the app:
-Navigate to http://localhost:8000 in your web browser.
-**Internet browser**
-Open the address https://hareapps.github.io/slowdown_hareApp/. It works on desktop and a mobile
+Since this app uses PyScript and Service Workers, it is best served via a local web server to avoid CORS issues.\
+**Clone the repository**:\
+Bash\
+git clone https://github.com/HareApps/SlowDown_HareApp.git\
+cd SlowDown_HareApp\
+**Start a local server**:\
+If you have Python installed, run:\
+Bash\
+python -m http.server 8000\
+Open the app:\
+Navigate to http://localhost:8000 in your web browser.\
+**Internet browser**\
+Open the address https://hareapps.github.io/slowdown_hareApp/. It works on desktop and a mobile\
 ## Usage
 *    **Set the Timer**: Select your desired work interval from the dropdown.
 *    **Work**: Click Start Activity. The app will run in the background.
